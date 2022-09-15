@@ -4,3 +4,4 @@ This is my curated list of interesting blog posts and articles that are timeless
 
 * Steve Yegge's rant on "Platform" - [https://gist.github.com/chitchcock/1281611](https://gist.github.com/chitchcock/1281611)
 * Marc Booker's "The power of two random choices" - [https://brooker.co.za/blog/2012/01/17/two-random.html](https://brooker.co.za/blog/2012/01/17/two-random.html)
+*  Filip Nikolovski on microservices - [https://filipnikolovski.com/posts/thoughts-on-microservices/](https://filipnikolovski.com/posts/thoughts-on-microservices/)
